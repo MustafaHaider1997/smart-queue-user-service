@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Environment
+.env
+
+# Docker
+*.db
+*.log
+*.pid
+*.sock
+docker-compose.override.yml
+
+# VSCode and OS files
+.vscode/
+.DS_Store

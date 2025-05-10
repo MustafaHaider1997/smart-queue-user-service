@@ -9,7 +9,7 @@ The **User Service** is one of the core microservices in the **Smart Queue Manag
 * 📝 **User Registration** – Signup with email and password (hashed using `bcrypt`)
 * 🔐 **JWT Authentication** – Secure token-based login using `HS256`
 * 🧾 **User Profile Access** – Retrieve current user info via token
-* ✅ **MongoDB Atlas / Azure CosmosDB** – Hosted NoSQL backend
+* ✅ **MongoDB via Azure CosmosDB** – Hosted NoSQL backend
 * 📦 **Docker-Ready** – Fully containerized via Docker
 * 🌐 **Swagger UI** – API documentation available at `/docs`
 
